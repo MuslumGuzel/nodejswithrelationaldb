@@ -1,0 +1,6 @@
+//This is the template for the .env file,
+//You have to create yourself with below keys.
+
+DBPATH = YourDbPath
+PORT = yourApiPort
+HOSTNAME = yourHostname
